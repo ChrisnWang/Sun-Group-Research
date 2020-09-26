@@ -1,0 +1,9 @@
+Group Recom方面总结：
+      Group Event Recom 中的 Group 一般不是 Meetup 中的 Group，而是 ①因参加同一offline event 的users 组成的group， 
+								（eg:It is worth to note that different with the online groups that organize events in some EBSNs
+									(e.g., Meetup) , which have studied by previous work [3], [4], the group we 
+									defined is offline group where the members participate an event in the real-world. 
+								       Moreover, the group we defined is ad-hoc, which means that we regard a group of users who
+								       participated two different events as two different groups, even they consist of same members.）
+					                      或是  ②因为相同兴趣、相似关系（如朋友、家人等）由author自己设计的group。
+      
